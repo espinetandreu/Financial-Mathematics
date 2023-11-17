@@ -58,4 +58,9 @@ These properties can be derived using the fact that $Z_{t} = \exp\left(\sigma W_
 
 ## Code Outputs
 
+### Simulated Paths
 ![Simulated paths for X(t) and S(t)](https://github.com/espinetandreu/Financial-Mathematics/blob/main/Geometric%20Brownian%20Motion/ABMvsGBM.png)
+
+### Distribution at final time
+![Distribution at final time](https://github.com/espinetandreu/Financial-Mathematics/blob/main/Geometric%20Brownian%20Motion/PDFABMvsGBM.png)
+
