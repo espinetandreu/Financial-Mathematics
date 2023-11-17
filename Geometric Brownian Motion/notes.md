@@ -55,3 +55,7 @@ $$
 $$
 
 These properties can be derived using the fact that $Z_{t} = \exp\left(\sigma W_{t} - \frac{1}{2}\sigma^{2}t\right)$ is a martingale.
+
+## Code Outputs
+
+![Simulated paths for X(t) and S(t)](https://github.com/espinetandreu/Financial-Mathematics/blob/main/Geometric%20Brownian%20Motion/ABMvsGBM.png)
