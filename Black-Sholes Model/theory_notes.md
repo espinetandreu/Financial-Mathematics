@@ -92,4 +92,14 @@ $$
 d_2 = d_1 - \sigma \sqrt{T - t}
 $$
 
-Here, $N$ is the cumulative distribution function of the standard normal distribution. This is the Black-Scholes formula for a European call option.
+Here, $N$ is the cumulative distribution function of the standard normal distribution.
+
+## Call-Put Parity
+
+In options trading, the **call-put parity** is a relationship between the prices of European call and put options with the same strike price (\(K\)) and expiration date (\(T\)). The call-put parity equation is given by:
+
+$$
+C - P = S - Ke^{-rT}
+$$
+
+This equation implies that the difference between the price of a European call option and a European put option with the same strike price and expiration date is equal to the difference between the current spot price of the underlying asset and the present value of the strike price.
