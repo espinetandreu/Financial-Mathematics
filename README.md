@@ -1,6 +1,6 @@
 # Financial Mathematics Portfolio
 
-Welcome to my Financial Mathematics GitHub repository! This collection of projects encompasses various aspects of financial engineering and computational finance.
+Welcome to my Financial Mathematics GitHub repository! This collection of projects encompasses various aspects of financial engineering and computational finance, showcasing my passion for applying mathematical and computational techniques to solve financial problems. 
 
 ## Getting Started
 
