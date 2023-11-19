@@ -2,6 +2,10 @@
 
 Welcome to my Financial Mathematics GitHub repository! This collection of projects encompasses various aspects of financial engineering and computational finance. Each project is designed to showcase theoretical understanding, practical implementation, and relevant resources.
 
+## Getting Started
+
+Feel free to dive into any project that interests you! Each project folder contains detailed theoretical notes, executable code, and any resources required. Follow the links above to access specific sections.
+
 ## Projects Overview
 
 ### 1. Black-Scholes Model
@@ -17,10 +21,6 @@ Discover yet another intriguing financial engineering project.
 * [**Theory Notes**](./Another%20Project/theory_notes.md): In-depth exploration of concepts and methodologies.
 * [**Python Code**](./Another%20Project/code.py): Python implementation of the project.
 * [**Resources**](./Another%20Project/resources): Additional files and datasets.
-
-## Getting Started
-
-Feel free to dive into any project that interests you! Each project folder contains detailed theoretical notes, executable code, and any resources required. Follow the links above to access specific sections.
 
 ## Contributing
 
