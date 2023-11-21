@@ -1,26 +1,26 @@
 # Financial Mathematics Portfolio
 
-Welcome to my Financial Mathematics GitHub repository! This collection of projects encompasses various aspects of financial engineering and computational finance, showcasing my passion for applying mathematical and computational techniques to solve financial problems. 
-
-## Getting Started
-
-Feel free to dive into any project that interests you! Each project folder contains detailed theoretical notes, executable code, and any resources required. Follow the links above to access specific sections.
+Welcome to my Financial Mathematics GitHub repository! This collection of Jupyter Notebooks encompasses various aspects of financial engineering and computational finance. Each notebook is designed to provide an interactive and comprehensive exploration of theoretical concepts and practical implementations.
 
 ## Projects Overview
 
-### 1. Black-Scholes Model
-Explore the renowned Black-Scholes option pricing model and understand its theoretical foundations.
+### Option Pricing
 
-* [**Theory Notes**](./Black-Scholes%20Model/theory_notes.md): Detailed derivation of formulas and code explanation.
-* [**Python Code**](./Black-Scholes%20Model/black_scholes.py): Implementation of the Black-Scholes model in Python.
-* [**Resources**](./Black-Scholes%20Model/resources): Supplementary PNG and CSV files.
+1. [**Geometric Brownian Motion**](./Option%20Pricing/Geometric%20Brownian%20Motion.ipynb)
 
-### 2. Another Project
-Discover yet another intriguing financial engineering project.
+1. [**Black-Scholes Model**](./Option%20Pricing/Black-Sholes%20Model.ipynb)
 
-* [**Theory Notes**](./Another%20Project/theory_notes.md): In-depth exploration of concepts and methodologies.
-* [**Python Code**](./Another%20Project/code.py): Python implementation of the project.
-* [**Resources**](./Another%20Project/resources): Additional files and datasets.
+### Portfolio Optimization
+
+Upcoming and still in progress...
+
+### Interest Rates Derivatives
+
+Upcoming and still in progress...
+
+## Getting Started
+
+Feel free to dive into any project that interests you! Each notebook is self-contained, providing a seamless blend of theory and code. Follow the links above to access specific sections.
 
 ## Contributing
 
@@ -28,8 +28,8 @@ If you have suggestions, improvements, or would like to contribute, please fork 
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE). Feel free to use the code and resources for your own projects.
+This repository is licensed under the [MIT License](./LICENSE.md). Feel free to use the code and resources for your own projects.
 
 ---
 
-Thank you for exploring my financial engineering portfolio! If you have any questions or feedback, don't hesitate to [reach out](mailto:your.email@example.com).
+Thank you for exploring my financial engineering portfolio! If you have any questions or feedback, don't hesitate to [reach out](mailto:espinetandreu@gmail.com).
