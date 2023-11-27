@@ -1,4 +1,4 @@
-# Financial Mathematics Portfolio
+# Financial Mathematics
 
 Welcome to my Financial Mathematics GitHub repository! This collection of Jupyter Notebooks encompasses various aspects of financial engineering and computational finance. Each notebook is designed to provide an interactive and comprehensive exploration of theoretical concepts and practical implementations.
 
@@ -8,11 +8,13 @@ Welcome to my Financial Mathematics GitHub repository! This collection of Jupyte
 
 1. [**Geometric Brownian Motion**](./Option%20Pricing/Geometric%20Brownian%20Motion.ipynb)
 
-1. [**Black-Scholes Model**](./Option%20Pricing/Black-Sholes%20Model.ipynb)
+2. [**Black-Scholes Model**](./Option%20Pricing/Black-Sholes%20Model.ipynb)
 
 ### Portfolio Optimization
 
-Upcoming and still in progress...
+1. [**Mean-Variance Model**](./Portolio%20Optimization/Mean-Variance%20Model.ipynb)
+2. [**Markowitz Similation**](./Portolio%20Optimization/Markowitz%20Simulation.ipynb)
+3. [**Capital Asset Pricing Model**](./Portolio%20Optimization/Capital%20Asset%20Pricing%20Model.ipynb)
 
 ### Interest Rates Derivatives
 
@@ -32,4 +34,4 @@ This repository is licensed under the [MIT License](./LICENSE.md). Feel free to 
 
 ---
 
-Thank you for exploring my financial engineering portfolio! If you have any questions or feedback, don't hesitate to [reach out](mailto:espinetandreu@gmail.com).
+Thank you for exploring my financial mathematics portfolio! If you have any questions or feedback, don't hesitate to [reach out](mailto:espinetandreu@gmail.com).
