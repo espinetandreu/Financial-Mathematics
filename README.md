@@ -7,7 +7,6 @@ Welcome to my Financial Mathematics GitHub repository! This collection of Jupyte
 ### Option Pricing
 
 1. [**Geometric Brownian Motion**](./Option%20Pricing/Geometric%20Brownian%20Motion.ipynb)
-
 2. [**Black-Scholes Model**](./Option%20Pricing/Black-Sholes%20Model.ipynb)
 
 ### Portfolio Optimization
@@ -18,7 +17,7 @@ Welcome to my Financial Mathematics GitHub repository! This collection of Jupyte
 
 ### Interest Rates Derivatives
 
-Upcoming and still in progress...
+    Upcoming and still in progress...
 
 ## Getting Started
 
@@ -28,10 +27,8 @@ Feel free to dive into any project that interests you! Each notebook is self-con
 
 If you have suggestions, improvements, or would like to contribute, please fork the repository and submit a pull request. Your input is highly valued!
 
+If you have any questions or feedback, don't hesitate to [reach out](mailto:espinetandreu@gmail.com).
+
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE.md). Feel free to use the code and resources for your own projects.
-
----
-
-Thank you for exploring my financial mathematics portfolio! If you have any questions or feedback, don't hesitate to [reach out](mailto:espinetandreu@gmail.com).
