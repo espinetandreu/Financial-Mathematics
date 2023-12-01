@@ -13,7 +13,8 @@ Welcome to my Financial Mathematics GitHub repository! This collection of Jupyte
 
 1. [**Mean-Variance Model**](./Portolio%20Optimization/Mean-Variance%20Model.ipynb)
 2. [**Markowitz Similation**](./Portolio%20Optimization/Markowitz%20Simulation.ipynb)
-3. [**Capital Asset Pricing Model**](./Portolio%20Optimization/Capital%20Asset%20Pricing%20Model.ipynb)
+3. [**Lagrange Multipliers Approach**](./Portolio%20Optimization/Lagrange%20Multipliers%20Approach.ipynb)
+4. [**Capital Asset Pricing Model**](./Portolio%20Optimization/Capital%20Asset%20Pricing%20Model.ipynb)
 
 ### Interest Rates Derivatives
 
